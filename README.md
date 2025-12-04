@@ -5,6 +5,8 @@ PCB of the Hackweek "Train of thought" Logo that (hopefully) blinks
 The windows of the train have the copper layer and the mask removed, so the LEDs
 will shine from behind the windows and make a blinking party train.
 
+The loop above the head of the Geeko is a hanger so you can clip it onto your regular conference badges.
+
 ![Screenshots](Screenshots/hackweek-page-image.png)
 
 
