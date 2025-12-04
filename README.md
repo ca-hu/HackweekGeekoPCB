@@ -5,7 +5,7 @@ PCB of the Hackweek "Train of thought" Logo that (hopefully) blinks
 ![Screenshots](Screenshots/hackweek-page-image.png)
 
 
-Link to Hackweek project:
+Link to Hackweek 2025 project:
 
 https://hackweek.opensuse.org/25/projects/the-led-geeko-develop-a-diy-kit-for-a-wearable-led-geeko-badge
 
